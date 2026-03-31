@@ -1,4 +1,4 @@
-# Python-Data-Cleaning-Project
+# Python Data Cleaning Project
 This project using Python in Jupyter Notebooks showcases my data cleaning abilities in Python using Pandas.
 The dataset I have used for this project can be found [here](https://www.kaggle.com/datasets/desolution01/messy-employee-dataset).
 
@@ -8,17 +8,29 @@ My code fixes issues such as compound columns that can be split and inconsistent
 
 ## Table of Contents:
 
+- [Overview](#overview)  
+- [Dataset](#dataset)  
+- [Technologies Used](#technologies-used)  
+- [Installation & Usage](#installation--usage)  
+- [Analysis](#analysis)  
+- [Conclusion](#conclusion)  
+- [Credits & Licensing](#credits--licensing)  
+
 ---
 
-## Overview
+## Overview:
 
 ---
 
-## Dataset
+## Dataset:
+
+- **Source:** [Messy Employee Dataset - Kaggle](https://www.kaggle.com/datasets/desolution01/messy-employee-dataset)
+- **Size:** 1020 rows x 12 columns
+- **Key features include:** missing values, inconsistent date formats, synthetic contact information
 
 ---
 
-## Technologies Used
+## Technologies Used:
 
 --- 
 
@@ -26,14 +38,14 @@ My code fixes issues such as compound columns that can be split and inconsistent
 
 ---
 
-## Analysis
+## Analysis:
 
 --- 
 
-## Conclusion
+## Conclusion:
 
 --- 
 
-## Credits & Licensing
+## Credits & Licensing:
 
 <p align="center"><strong>Thank you for visiting! </strong></p>
